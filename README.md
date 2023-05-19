@@ -16,7 +16,7 @@
 </ul>
 
 <h3> ScreenShots </h3>  
-<img src = "Weather-App.jpg" alt="Sample Image">
+<img src = "Weather-App.png" alt="Sample Image">
 <br>
 <video controls autoplay>
   <source src="sample.mp4" type="video/mp4">
